@@ -1,0 +1,5 @@
+[0507/193148.623:WARNING:chrome_main_delegate.cc(565)] final extension: .zip
+[0507/193432.533:WARNING:chrome_main_delegate.cc(565)] final extension: .zip
+[0507/193919.785:WARNING:chrome_main_delegate.cc(565)] final extension: .zip
+[0507/194008.939:WARNING:chrome_main_delegate.cc(565)] final extension: .zip
+[0507/194057.938:ERROR:http_transport_win.cc(127)] WinHttpCrackUrl: L'URL non utilizza un protocollo conosciuto  (0x2ee6)
